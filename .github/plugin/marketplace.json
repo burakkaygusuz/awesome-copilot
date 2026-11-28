@@ -3480,8 +3480,8 @@
     {
       "name": "typescript-mcp-development",
       "source": "plugins/typescript-mcp-development",
-      "description": "Complete toolkit for building Model Context Protocol (MCP) servers in TypeScript/Node.js using the official SDK. Includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance.",
-      "version": "1.0.0"
+      "description": "Build Model Context Protocol (MCP) servers in TypeScript with the official MCP TypeScript SDK 2.x. The plugin includes a skill that generates a server project and an expert agent for guidance.",
+      "version": "2.0.0"
     },
     {
       "name": "typespec-m365-copilot",
