@@ -1,6 +1,6 @@
 # TypeScript MCP Server Development Plugin
 
-Complete toolkit for building Model Context Protocol (MCP) servers in TypeScript/Node.js using the official SDK. Includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance.
+Build Model Context Protocol (MCP) servers in TypeScript with the official MCP TypeScript SDK 2.x. The plugin includes a skill that generates a server project and an expert agent for guidance.
 
 ## Installation
 
@@ -13,15 +13,15 @@ copilot plugin install typescript-mcp-development@awesome-copilot
 
 ### Commands (Slash Commands)
 
-| Command | Description |
-|---------|-------------|
-| `/typescript-mcp-development:typescript-mcp-server-generator` | Generate a complete MCP server project in TypeScript with tools, resources, and proper configuration |
+| Command                                                       | Description                                                                                                                        |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `/typescript-mcp-development:typescript-mcp-server-generator` | Generate a Node.js project for an MCP server in TypeScript with the MCP TypeScript SDK 2.x, Vitest tests, and client configuration |
 
 ### Agents
 
-| Agent | Description |
-|-------|-------------|
-| `typescript-mcp-expert` | Expert assistant for developing Model Context Protocol (MCP) servers in TypeScript |
+| Agent                   | Description                                                                                                                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `typescript-mcp-expert` | Expert assistant that helps developers build Model Context Protocol (MCP) servers in TypeScript with the MCP TypeScript SDK 2.x |
 
 ## Source
 
